@@ -1,2 +1,9 @@
+:toc:
+:toc-placement!:
+
+preamble paragraph, blah blah blah blah  blah blah  blah blah  blah blah  blah blah  blah blah  blah blah 
+
+toc::[]
+
 == This is a test
 this is a test of using asciidoc
